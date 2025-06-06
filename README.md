@@ -1,12 +1,9 @@
 # apesein
 
+HTTP DDoS tool for ethical testing.
 <p align="center">
   <img src="config/apesein.png" alt="apesein banner">
 </p>
-
-HTTP DDoS tool for ethical testing.
-
-![apesein screenshot](config/apesein.png)
 
 ## Features
 - HTTP GET/POST flooding
