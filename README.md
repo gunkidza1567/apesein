@@ -18,7 +18,7 @@ Clone the repository:
 git clone https://github.com/username/apesein.git
 cd apesein
 pip install -r requirements.txt
-
+```
 ## Usage
 Run the script:
 ```bash
