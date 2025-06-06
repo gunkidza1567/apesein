@@ -2,7 +2,7 @@
 
 HTTP DDoS tool for ethical testing.
 
-![apesein screenshot](\config\apesein.png)
+![apesein screenshot](config/apesein.png)
 
 ## Features
 - HTTP GET/POST flooding
