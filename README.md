@@ -14,7 +14,7 @@ HTTP DDoS tool for ethical testing.
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/username/apesein.git
+git clone https://github.com/lUAsirNin/apesein
 cd apesein
 pip install -r requirements.txt
 ```
