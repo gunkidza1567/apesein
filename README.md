@@ -1,5 +1,9 @@
 # apesein
 
+<p align="center">
+  <img src="config/apesein.png" alt="apesein banner">
+</p>
+
 HTTP DDoS tool for ethical testing.
 
 ![apesein screenshot](config/apesein.png)
@@ -14,10 +18,9 @@ HTTP DDoS tool for ethical testing.
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/lUAsirNin/apesein
+git clone https://github.com/username/apesein.git
 cd apesein
 pip install -r requirements.txt
-```
 
 ## Usage
 Run the script:
