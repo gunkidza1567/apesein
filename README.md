@@ -29,11 +29,6 @@ python apesein.py
 - Python 3.8+
 - `requests`, `colorama`
 
-## File Structure
-- `apesein.py` — Main script
-- `requirements.txt` — Dependencies
-- `.gitignore` — Ignores `__pycache__`, etc.
-
 ## Disclaimer
 Use only on systems you own or have explicit permission to test. Unauthorized use is illegal.
 
